@@ -2,7 +2,7 @@ import streamlit
 streamlit.title('My Parents New Healthy Diner')
 
 streamlit.header('Good Morning Life')
-streamlit.subheader('Classic English Breakfast')
+streamlit.subsubheader('Classic English Breakfast')
 streamlit.text('Contains bread,french fries,baked beans,scrambled eggs. Options: Chicken, Ham, Pork')
 
 streamlit.header('Lunch Menu')
