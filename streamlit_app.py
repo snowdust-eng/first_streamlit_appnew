@@ -1,5 +1,4 @@
 import streamlit
 streamlit.title('My Parents New Healthy Diner')
 streamlit.header('Breakfast Menu')
-streamlit.text('Classic English Breakfast   Options: Chicken, Ham, Pork, Beef with eggs(sunny side up),') 
-streamlit.text('french fries, baked beans..its yummm!!!')
+streamlit.text('Classic English Breakfast(contains bread,french fries,baked beans,scrambled eggs. Options: Chicken, Ham, Pork')
