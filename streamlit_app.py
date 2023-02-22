@@ -13,3 +13,5 @@ streamlit.text(' Contains Soup, choice of non veg, rice/bread Options: Chicken, 
 streamlit.header('Dinner Menu')
 streamlit.subheader('Light and funnnn')
 streamlit.text(' Options: 🥣Soup, Thai noodles, pasta, Chicken rice')
+streamlit.header('Build Your Own Fruit Smoothie 🥝🍇')
+
